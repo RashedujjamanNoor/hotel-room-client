@@ -2,6 +2,11 @@
 
 @import "tailwindcss";
 
+@theme {
+  --color-primary: #2563eb;
+  --color-secondary: #fbbf24;
+}
+
 * {
   font-family: Outfit;
 }

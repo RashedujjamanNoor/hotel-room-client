@@ -129,7 +129,7 @@ const AllRooms = () => {
             >
               {openFilter ? "HIDE" : "SHOW"}
             </span>
-            <span className="hidden">CLEAR</span>
+            <span className="hidden lg:block">CLEAR</span>
           </div>
         </div>
 
